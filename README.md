@@ -48,7 +48,7 @@ I’m always open to collaborating on exciting projects! Reach out if you're wor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspreetsingh5571b2a4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://jaspreetsingh.framer.website)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaspreetsingh252@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsingh252003@gmail.com)
 
 ---
 
