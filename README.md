@@ -53,4 +53,4 @@ I’m always open to collaborating on exciting projects! Reach out if you're wor
 ---
 
 ## ⚡ Fun Fact:
-I began my coding journey by building an AI-powered image calculator and a video calling app. I'm driven by the intersection of **tech** and **creativity**, and I'm always on the lookout for the next big thing in mobile and blockchain development!
+I began my coding journey by building an AI-powered image calculator and a video calling app. I'm driven by the intersection of **tech** and **creativity**, and I'm always on the lookout for the next big thing in mobile and MERN STACK!
