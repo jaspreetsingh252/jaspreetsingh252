@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jaspreet Singh (@jaspreetsingh252)
+# 👋 Hi, I’m Jaspreet Singh 
 
 ## 👨‍💻 About Me:
 I am a passionate **Software Developer** with a strong interest in **Full-stack Development**, **Android apps**, and **Web3 technologies**. I love working on projects that solve real-world problems using technology, especially in **FinTech** and **Blockchain**. I am always looking to collaborate on innovative ideas and explore cutting-edge tech.
